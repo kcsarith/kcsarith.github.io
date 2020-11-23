@@ -1,2 +1,2 @@
 # kcsarith.github.io
-Personal websit
+Personal website
