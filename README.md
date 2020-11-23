@@ -1,6 +1,6 @@
 # About Me
 My name is Krisna Sarith, a full stack developer. I have had interest in software engineering ever since I was in middle school and my curiosity only increases the more I learn about it. I started programming without the need of writing scripts up until High School and moved onto using real programming languages beyond. C# was a programming language I used to create games, and there are even a couple of mobile apps I've published while I was working at ESC-Toy. During the pandemic, I decided to push my software engineering skills even further and acquired knowledge about full stack development where I created 4 applications using JavaScript, Python, or both.
-# Tools
+# Tools of the Trade
 Below are a list of programming languages I have experience and skills I can perform.
 ## Programming Languages
 Learning one language makes it easier to learn another, because the foundations of each computer language share similarities in that they have functions, variables but with specialized vocabulary. Below are a list of programming languages I've created products along with some of the packages or frameworks I've used from them.
