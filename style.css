@@ -1,0 +1,6 @@
+canvas{
+  /* Pin to the top of the screen */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
