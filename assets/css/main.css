@@ -1,11 +1,5 @@
 @import url(fontawesome-all.min.css);
 
-/*
-	Hyperspace by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2356,7 +2350,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #312450;
+			background: #000000;
 		}
 
 		select:focus::-ms-value {
@@ -2444,7 +2438,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #0c1821;
 			content: '\f00c';
 		}
 
@@ -2525,7 +2519,7 @@ input, select, textarea {
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #312450;
+			color: #000000;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2536,27 +2530,27 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #324a5f;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #1b2a41;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #324a5f;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #1b2a41;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #0c1821;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #000000;
 				}
 
 /* Image */
@@ -3236,31 +3230,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #000000;
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #1b2a41;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #0c1821;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #0d1a25;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #324a5f;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #0c1821;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #0d1a25;
 		}
 
 		.wrapper.fullscreen {
@@ -3370,7 +3364,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #1b2a41;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3513,7 +3507,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(255, 255, 255, 0.15);
+		color: rgba(255, 255, 255, 0.55);
 	}
 
 	#header + #wrapper + #footer > .inner {
@@ -3524,7 +3518,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #000000;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3761,7 +3755,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #122a35;
 			}
 
 			#sidebar nav a:after {
@@ -3857,7 +3851,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #1b2a41;
 						}
 
 		}
