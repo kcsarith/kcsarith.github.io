@@ -7,7 +7,7 @@ Learning one language makes it easier to learn another, because the foundations 
 ### JavaScript
 This was the most popular language at the time I learned it. It has a lot of resources and can be a good standalone language to create web apps because of React.js
 1. Node.js
-2. Vanilla js dom manipulation
+2. Vanilla js
 3. Express.js
 4. React.js
 5. Redux
