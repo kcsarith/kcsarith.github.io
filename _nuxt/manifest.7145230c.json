@@ -3,7 +3,7 @@
   "short_name": "Krisna",
   "description": "I have had interest in software engineering ever since I was in middle school and my curiosity only increases the more I learn about it. I started programming without the need of writing scripts up until High School and moved onto using real programming languages.",
   "icons": [],
-  "start_url": "/kcsarith.github.io/?standalone=true",
+  "start_url": "/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "lang": "en"
